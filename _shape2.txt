@@ -1,0 +1,107 @@
+﻿[
+ {
+  "id": "all",
+  "label": {
+   "en": "All animals",
+   "bn": "Óª©Óª¼ Óª¬ÓºìÓª░Óª¥ÓªúÓºÇ"
+  }
+ },
+ {
+  "id": "mammals",
+  "label": {
+   "en": "Mammals",
+   "bn": "Óª©ÓºìÓªñÓª¿ÓºìÓª»Óª¬Óª¥Óª»Óª╝ÓºÇ"
+  }
+ },
+ {
+  "id": "birds",
+  "label": {
+   "en": "Birds",
+   "bn": "Óª¬Óª¥ÓªûÓª┐"
+  }
+ },
+ {
+  "id": "reptiles",
+  "label": {
+   "en": "Reptiles",
+   "bn": "Óª©Óª░ÓºÇÓª©ÓºâÓª¬"
+  }
+ },
+ {
+  "id": "fish",
+  "label": {
+   "en": "Fish",
+   "bn": "Óª«Óª¥Óªø"
+  }
+ }
+]
+animals 23 news 6 faqs 8 attractions 8
+[
+ {
+  "id": "metro",
+  "icon": "train",
+  "titleKey": "visit.metro",
+  "textKey": "visit.metroText",
+  "noteKey": "visit.metroNote"
+ },
+ {
+  "id": "bus",
+  "icon": "bus",
+  "titleKey": "visit.bus",
+  "textKey": "visit.busText",
+  "noteKey": "visit.busNote"
+ },
+ {
+  "id": "car",
+  "icon": "car",
+  "titleKey": "visit.car",
+  "textKey": "visit.carText",
+  "noteKey": "visit.carNote"
+ }
+]
+[
+ {
+  "id": "wildlife",
+  "number": "01",
+  "image": "tiger-sundarbans"
+ },
+ {
+  "id": "education",
+  "number": "02",
+  "image": "education"
+ },
+ {
+  "id": "internship",
+  "number": "03",
+  "image": "elephant-shelter"
+ }
+]
+[
+ {
+  "id": "acres",
+  "value": 186,
+  "suffix": "",
+  "labelKey": "stats.acres"
+ },
+ {
+  "id": "species",
+  "value": 137,
+  "suffix": "+",
+  "labelKey": "stats.species"
+ },
+ {
+  "id": "animals",
+  "value": 3000,
+  "suffix": "+",
+  "labelKey": "stats.animals"
+ },
+ {
+  "id": "established",
+  "value": 1974,
+  "suffix": "",
+  "labelKey": "stats.established"
+ }
+]
+["ban","volume","trash","users","fence","shield"]
+["sun","droplet","footsteps","pin"]
+["royal-bengal-tiger","asian-elephant","giraffe","white-rhinoceros","hippopotamus","plains-zebra","chital","sambar-deer","olive-baboon","rhesus-macaque","indian-peafowl","ostrich","emu","great-white-pelican","greater-flamingo","black-necked-stork","mugger-crocodile","indian-python","aldabra-giant-tortoise","asian-water-monitor","arapaima","red-bellied-piranha","koi-carp"]

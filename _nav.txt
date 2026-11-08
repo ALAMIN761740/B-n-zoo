@@ -1,0 +1,66 @@
+﻿en {
+ "home": "Home",
+ "visit": "Visit the Zoo",
+ "animals": "Animals & Exhibits",
+ "map": "Zoo Map",
+ "conservation": "Conservation & Education",
+ "news": "News & Notices",
+ "contact": "Contact",
+ "ariaLabel": "Primary navigation",
+ "mobileLabel": "Mobile navigation"
+}
+bn {
+ "home": "Óª╣ÓºïÓª«",
+ "visit": "ÓªÜÓª┐ÓªíÓª╝Óª┐Óª»Óª╝Óª¥ÓªûÓª¥Óª¿Óª¥ Óª¡ÓºìÓª░Óª«Óªú",
+ "animals": "Óª¬ÓºìÓª░Óª¥ÓªúÓºÇ Óªô Óª¬ÓºìÓª░ÓªªÓª░ÓºìÓªÂÓª¿ÓºÇ",
+ "map": "ÓªÜÓª┐ÓªíÓª╝Óª┐Óª»Óª╝Óª¥ÓªûÓª¥Óª¿Óª¥Óª░ Óª«Óª¥Óª¿ÓªÜÓª┐ÓªñÓºìÓª░",
+ "conservation": "Óª©ÓªéÓª░ÓªòÓºìÓªÀÓªú Óªô ÓªÂÓª┐ÓªòÓºìÓªÀÓª¥",
+ "news": "Óª©ÓªéÓª¼Óª¥Óªª Óªô Óª¼Óª┐Óª£ÓºìÓª×Óª¬ÓºìÓªñÓª┐",
+ "contact": "Óª»ÓºïÓªùÓª¥Óª»ÓºïÓªù",
+ "ariaLabel": "Óª¬ÓºìÓª░ÓªºÓª¥Óª¿ Óª¿ÓºçÓª¡Óª┐ÓªùÓºçÓªÂÓª¿",
+ "mobileLabel": "Óª«ÓºïÓª¼Óª¥ÓªçÓª▓ Óª¿ÓºçÓª¡Óª┐ÓªùÓºçÓªÂÓª¿"
+}
+news [
+ {
+  "slug": "first-timer-route-through-the-zoo",
+  "title": "A first-timerÔÇÖs route through the zoo",
+  "featured": true,
+  "cat": "guide",
+  "img": "gate"
+ },
+ {
+  "slug": "why-the-royal-bengal-tiger-still-matters",
+  "title": "Why the Royal Bengal tiger still matters",
+  "featured": false,
+  "cat": "wildlife",
+  "img": "tiger-sundarbans"
+ },
+ {
+  "slug": "planning-a-school-visit-that-teaches",
+  "title": "Planning a school visit that actually teaches",
+  "featured": false,
+  "cat": "education",
+  "img": "education"
+ },
+ {
+  "slug": "monsoon-at-the-zoo",
+  "title": "Monsoon at the zoo: watching a landscape change",
+  "featured": false,
+  "cat": "seasons",
+  "img": "lake"
+ },
+ {
+  "slug": "photographing-wildlife-with-respect",
+  "title": "How to photograph wildlife without disturbing it",
+  "featured": false,
+  "cat": "photography",
+  "img": "peacock"
+ },
+ {
+  "slug": "small-things-that-make-a-family-visit-easier",
+  "title": "Six small things that make a family visit easier",
+  "featured": false,
+  "cat": "guide",
+  "img": "children-park"
+ }
+]

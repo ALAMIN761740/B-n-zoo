@@ -1,0 +1,1905 @@
+{
+  "attractions": [
+    {
+      "slug": "royal-bengal-tiger",
+      "name": {
+        "en": "Royal Bengal Tiger",
+        "bn": "রয়েল বেঙ্গল টাইগার"
+      },
+      "category": "wildlife",
+      "image": "tiger-portrait",
+      "position": "50% 42%",
+      "order": 1,
+      "blurb": {
+        "en": "The national animal, and the wild heart of the Sundarbans.",
+        "bn": "জাতীয় প্রাণী, সুন্দরবনের বন্য হৃদয়।"
+      },
+      "intro": {
+        "en": "Meet the most iconic presence at Bangladesh National Zoo — a living link to the mangrove forests of the south.",
+        "bn": "বাংলাদেশ জাতীয় চিড়িয়াখানার সবচেয়ে পরিচিত বাসিন্দার সঙ্গে পরিচিত হোন—দক্ষিণের ম্যানগ্রোভ বনের জীবন্ত সংযোগ।"
+      },
+      "description": [
+        {
+          "en": "The Royal Bengal Tiger is inseparable from the story of Bangladesh. It is the national animal, a symbol of strength and a flagship for the protection of the Sundarbans. Seeing one at the zoo is an invitation to learn about the wild landscapes it represents.",
+          "bn": "রয়েল বেঙ্গল টাইগার বাংলাদেশের ইতিহাসের অবিচ্ছেদ্য অংশ। এটি জাতীয় প্রাণী, শক্তির প্রতীক এবং সুন্দরবন সুরক্ষার প্রধান প্রতিনিধি। চিড়িয়াখানায় একটিকে দেখা মানে তার প্রতিনিধিত্ব করা বন্য পরিবেশ সম্পর্কে জানার আমন্ত্রণ।"
+        },
+        {
+          "en": "Tigers are solitary, powerful and surprisingly at home in water. A visit to the enclosure is a chance to observe the pace of a big cat at rest — the slow walk, the alert ears, the sudden stillness.",
+          "bn": "বাঘ একাকী, শক্তিশালী এবং অবাক করার মতো পানিতে দক্ষ। খাঁচায় গিয়ে বড় বিড়ালের বিশ্রামের ছন্দ দেখা যায়—ধীর চলা, সতর্ক কান, হঠাৎ নিঃশব্দ হয়ে যাওয়া।"
+        }
+      ],
+      "highlights": [
+        {
+          "en": "National animal of Bangladesh",
+          "bn": "বাংলাদেশের জাতীয় প্রাণী"
+        },
+        {
+          "en": "Flagship species of the Sundarbans",
+          "bn": "সুন্দরবনের প্রধান প্রতিনিধি প্রজাতি"
+        },
+        {
+          "en": "A powerful swimmer, unlike most cats",
+          "bn": "অনেক বিড়ালজাতীয় প্রাণীর বিপরীতে দক্ষ সাঁতারু"
+        }
+      ],
+      "relatedAnimals": [
+        "royal-bengal-tiger",
+        "chital",
+        "mugger-crocodile"
+      ],
+      "imageAlt": {
+        "en": "A Royal Bengal tiger resting in the shade at Bangladesh National Zoo",
+        "bn": "বাংলাদেশ জাতীয় চিড়িয়াখানায় ছায়ায় বিশ্রামরত রয়েল বেঙ্গল টাইগার"
+      }
+    },
+    {
+      "slug": "rhinoceros",
+      "name": {
+        "en": "Rhinoceros",
+        "bn": "গণ্ডার"
+      },
+      "category": "wildlife",
+      "image": "rhino-wide",
+      "position": "50% 50%",
+      "order": 2,
+      "blurb": {
+        "en": "A grassland giant with a calm presence and a prehistoric silhouette.",
+        "bn": "শান্ত উপস্থিতি ও প্রাগৈতিহাসিক আকৃতির এক তৃণভূমির দানব।"
+      },
+      "intro": {
+        "en": "A close encounter with one of the largest land mammals on Earth.",
+        "bn": "পৃথিবীর বৃহত্তম স্থলজ স্তন্যপায়ীদের একটির সঙ্গে কাছাকাছি পরিচয়।"
+      },
+      "description": [
+        {
+          "en": "The rhinoceros is a grazing giant with a broad muzzle and horns made of keratin. At first glance it seems unhurried; in reality it is alert, agile and capable of surprising speed.",
+          "bn": "গণ্ডার প্রশস্ত মুখ ও কেরাটিনের শিংয়ের অধিকারী এক তৃণভোজী দানব। প্রথম দেখায় ধীরগতির মনে হলেও এটি সতর্ক, চটপটে এবং অবাক করা গতিতে ছুটতে সক্ষম।"
+        },
+        {
+          "en": "Rhinos use scent to understand their world. Watching one move between shade, water and grazing ground is a lesson in the quiet routines of a large herbivore.",
+          "bn": "গণ্ডার গন্ধ দিয়ে চারপাশ বুঝে নেয়। ছায়া, পানি ও চারণভূমির মধ্যে তার চলাচল বড় তৃণভোজীর শান্ত রুটিন সম্পর্কে শেখায়।"
+        }
+      ],
+      "highlights": [
+        {
+          "en": "Broad, square lip adapted for grazing",
+          "bn": "ঘাস খাওয়ার জন্য উপযোগী প্রশস্ত ঠোঁট"
+        },
+        {
+          "en": "Two horns made of keratin",
+          "bn": "কেরাটিনে তৈরি দুটি শিং"
+        },
+        {
+          "en": "A wallow is a favourite place on hot days",
+          "bn": "গরমের দিনে কাদার গর্ত প্রিয় স্থান"
+        }
+      ],
+      "relatedAnimals": [
+        "white-rhinoceros",
+        "hippopotamus",
+        "giraffe"
+      ],
+      "imageAlt": {
+        "en": "A white rhinoceros standing in a wide, grassy enclosure",
+        "bn": "প্রশস্ত ঘাসযুক্ত আবাসে দাঁড়িয়ে থাকা সাদা গণ্ডার"
+      }
+    },
+    {
+      "slug": "giraffe",
+      "name": {
+        "en": "Giraffe",
+        "bn": "জিরাফ"
+      },
+      "category": "wildlife",
+      "image": "giraffe-wide",
+      "position": "50% 45%",
+      "order": 3,
+      "blurb": {
+        "en": "The tallest animal on Earth, seen eye to eye from the viewing path.",
+        "bn": "পৃথিবীর সবচেয়ে লম্বা প্রাণী, দেখার পথ থেকে চোখে চোখ।"
+      },
+      "intro": {
+        "en": "A gentle giant that turns a simple walk into a study in scale and grace.",
+        "bn": "একটি সাধারণ হাঁটাকে আকার ও কমনীয়তার পাঠে পরিণত করা এক শান্ত দানব।"
+      },
+      "description": [
+        {
+          "en": "A giraffe’s height is built on an unusually long neck and legs, yet it carries itself with a slow, deliberate rhythm. The patterned coat is unique to each animal and helps it disappear into dappled shade.",
+          "bn": "জিরাফের উচ্চতা অস্বাভাবিক লম্বা গলা ও পায়ের উপর তৈরি, তবুও তার চলনে ধীর, সচেতন ছন্দ। ডোরাকাটা নকশা প্রতিটি প্রাণীর জন্য আলাদা এবং গাছের ছায়ায় মিশে যেতে সাহায্য করে।"
+        },
+        {
+          "en": "Giraffes browse at heights other herbivores cannot reach, using a long, muscular tongue to strip leaves from thorny branches. Their eyes are large and placed high, giving them a wide view of the ground around them.",
+          "bn": "জিরাফ এমন উচ্চতায় পাতা খায় যেখানে অন্য তৃণভোজীরা পৌঁছায় না; লম্বা, পেশিবহুল জিহ্বা দিয়ে কাঁটাযুক্ত ডাল থেকে পাতা ছিঁড়ে নেয়। বড় চোখ মাথার উঁচুতে থাকায় আশপাশের মাঠ তাদের বিস্তৃত দেখা যায়।"
+        }
+      ],
+      "highlights": [
+        {
+          "en": "Tallest living land animal",
+          "bn": "সবচেয়ে লম্বা জীবিত স্থলজ প্রাণী"
+        },
+        {
+          "en": "Unique coat pattern in every individual",
+          "bn": "প্রতিটি জিরাফের আলাদা নকশা"
+        },
+        {
+          "en": "A long tongue adapted for thorny leaves",
+          "bn": "কাঁটাযুক্ত পাতা খাওয়ার উপযোগী লম্বা জিহ্বা"
+        }
+      ],
+      "relatedAnimals": [
+        "giraffe",
+        "zebra",
+        "white-rhinoceros"
+      ],
+      "imageAlt": {
+        "en": "A giraffe walking across its enclosure at the zoo",
+        "bn": "চিড়িয়াখানার আবাসে হেঁটে চলা জিরাফ"
+      }
+    },
+    {
+      "slug": "asian-elephant",
+      "name": {
+        "en": "Asian Elephant",
+        "bn": "এশীয় হাতি"
+      },
+      "category": "wildlife",
+      "image": "elephant-shelter",
+      "position": "50% 45%",
+      "order": 4,
+      "blurb": {
+        "en": "A deeply intelligent, social giant with an extraordinary trunk.",
+        "bn": "অসাধারণ শুঁড়ের অধিকারী গভীর বুদ্ধিমান, সামাজিক দানব।"
+      },
+      "intro": {
+        "en": "Slow down at the elephant enclosure. The longer you watch, the more you notice.",
+        "bn": "হাতির খাঁচার সামনে একটু ধীর হন। যত বেশি দেখবেন, তত বেশি লক্ষ্য করবেন।"
+      },
+      "description": [
+        {
+          "en": "Asian elephants are social animals with strong family bonds. The trunk — a fusion of nose and upper lip — is used for breathing, smelling, drinking, feeding, touching and producing sound.",
+          "bn": "এশীয় হাতি সামাজিক প্রাণী; পারিবারিক বন্ধন দৃঢ়। শুঁড়—নাক ও উপরের ঠোঁটের মিলিত রূপ—শ্বাস, গন্ধ, পানি পান, খাদ্য গ্রহণ, স্পর্শ ও শব্দ তৈরিতে ব্যবহৃত হয়।"
+        },
+        {
+          "en": "The zoo is home to elephants that require expert daily care. Watching keepers work with them is a reminder that a modern zoo is as much about animal welfare as it is about display.",
+          "bn": "চিড়িয়াখানায় হাতিদের প্রতিদিন বিশেষজ্ঞ যত্ন প্রয়োজন। কর্মীদের সঙ্গে তাদের কাজ দেখা মনে করিয়ে দেয়—আধুনিক চিড়িয়াখানা প্রদর্শনীর পাশাপাশি প্রাণীকল্যাণেরও জায়গা।"
+        }
+      ],
+      "highlights": [
+        {
+          "en": "Highly social, family-led herds",
+          "bn": "অত্যন্ত সামাজিক, পরিবার-নেতৃত্বাধীন দল"
+        },
+        {
+          "en": "A trunk with thousands of uses",
+          "bn": "হাজারো কাজে ব্যবহারযোগ্য শুঁড়"
+        },
+        {
+          "en": "Long-distance low-frequency calls",
+          "bn": "দূর পর্যন্ত পৌঁছানো নিম্ন-কম্পাঙ্কের ডাক"
+        }
+      ],
+      "relatedAnimals": [
+        "asian-elephant",
+        "hippopotamus",
+        "white-rhinoceros"
+      ],
+      "imageAlt": {
+        "en": "An Asian elephant standing under a shelter",
+        "bn": "আশ্রয়ের নিচে দাঁড়িয়ে থাকা এশীয় হাতি"
+      }
+    },
+    {
+      "slug": "aviary-and-birds",
+      "name": {
+        "en": "Aviary & Birds",
+        "bn": "পাখিশালা ও পাখি"
+      },
+      "category": "experience",
+      "image": "peacock",
+      "position": "50% 45%",
+      "order": 5,
+      "blurb": {
+        "en": "Colour, movement and song — the zoo’s birds bring the grounds to life.",
+        "bn": "রঙ, নড়াচড়া আর গান—চিড়িয়াখানার পাখিরা প্রাঙ্গণকে প্রাণ দেয়।"
+      },
+      "intro": {
+        "en": "From displaying peafowl to lake birds and aviary residents, the bird collection is one of the zoo’s great pleasures.",
+        "bn": "পাখা মেলা ময়ূর থেকে হ্রদের পাখি ও পাখিশালার বাসিন্দা—পাখির সংগ্রহ চিড়িয়াখানার অন্যতম আনন্দ।"
+      },
+      "description": [
+        {
+          "en": "The zoo’s aviaries and open grounds hold a wide range of birdlife, from familiar peafowl to larger flightless species and waterbirds. Each has its own way of moving, feeding and interacting with the landscape.",
+          "bn": "চিড়িয়াখানার পাখিশালা ও খোলা প্রাঙ্গণে নানা পাখির বাস—পরিচিত ময়ূর থেকে বড় উড়ালহীন প্রজাতি ও জলপাখি। প্রতিটির চলাফেরা, খাদ্য গ্রহণ ও পরিবেশের সঙ্গে সম্পর্ক আলাদা।"
+        },
+        {
+          "en": "Birds are especially rewarding for young visitors: a pair of binoculars (or simply patience) can turn a walk into a wildlife expedition. Look for feeding behaviour, calls and the small interactions within a flock.",
+          "bn": "শিশুদের জন্য পাখি বিশেষ আনন্দের: একজোড়া দূরবীন (বা শুধু ধৈর্য) হাঁটাকে বন্যপ্রাণী অভিযানে বদলে দিতে পারে। খাদ্য গ্রহণ, ডাক ও দলের ভেতরের ছোট মিথস্ক্রিয়া লক্ষ্য করুন।"
+        }
+      ],
+      "highlights": [
+        {
+          "en": "Free-roaming peafowl in some areas",
+          "bn": "কিছু এলাকায় মুক্ত ময়ূর"
+        },
+        {
+          "en": "Waterbirds around the zoo lakes",
+          "bn": "চিড়িয়াখানার হ্রদে জলপাখি"
+        },
+        {
+          "en": "Aviary exhibits across the grounds",
+          "bn": "প্রাঙ্গণজুড়ে পাখিশালা"
+        }
+      ],
+      "relatedAnimals": [
+        "indian-peafowl",
+        "ostrich",
+        "emu",
+        "great-white-pelican",
+        "greater-flamingo"
+      ],
+      "imageAlt": {
+        "en": "A peacock displaying its colourful train",
+        "bn": "রঙিন পেখম মেলা ময়ূর"
+      }
+    },
+    {
+      "slug": "aquarium",
+      "name": {
+        "en": "Aquarium",
+        "bn": "অ্যাকোয়ারিয়াম"
+      },
+      "category": "experience",
+      "image": "aquarium",
+      "position": "50% 50%",
+      "order": 6,
+      "imageNote": "illustrative",
+      "blurb": {
+        "en": "A quieter, blue-lit world of fish from rivers and distant waters.",
+        "bn": "নদী ও দূরের পানির মাছের শান্ত, নীল আলোর পৃথিবী।"
+      },
+      "intro": {
+        "en": "Step out of the sun and into the slow, suspended world of the aquarium.",
+        "bn": "রোদ থেকে সরে অ্যাকোয়ারিয়ামের ধীর, ভাসমান পৃথিবীতে ঢুকে পড়ুন।"
+      },
+      "description": [
+        {
+          "en": "The aquarium gives visitors a different kind of animal encounter: close, calm and full of movement at a smaller scale. Fish displays reveal forms and behaviours that are easy to miss in a lake or river.",
+          "bn": "অ্যাকোয়ারিয়াম দর্শনার্থীদের অন্য ধরনের প্রাণী-অভিজ্ঞতা দেয়: কাছে, শান্ত এবং ছোট পরিসরে নড়াচড়ায় ভরা। মাছের প্রদর্শনী হ্রদ বা নদীতে সহজে চোখে না পড়া আকৃতি ও আচরণ দেখায়।"
+        },
+        {
+          "en": "Look for the arapaima rising to breathe, the coordinated movement of a piranha school, or the bright patterns of ornamental carp. The dim light is part of the experience — give your eyes a moment to adjust.",
+          "bn": "আরাপাইমা শ্বাস নিতে উপরে উঠছে, পিরানহার দল একসঙ্গে চলছে, কিংবা অলংকার কার্পের উজ্জ্বল নকশা—এসব লক্ষ্য করুন। মৃদু আলো অভিজ্ঞতার অংশ—চোখকে খাপ খাওয়াতে একটু সময় দিন।"
+        }
+      ],
+      "highlights": [
+        {
+          "en": "Freshwater and exotic fish displays",
+          "bn": "মিঠাপানির ও বিদেশি মাছের প্রদর্শনী"
+        },
+        {
+          "en": "A calm, indoor experience",
+          "bn": "শান্ত, ভেতরের অভিজ্ঞতা"
+        },
+        {
+          "en": "A good stop for younger visitors",
+          "bn": "শিশুদের জন্য ভালো বিরতি"
+        }
+      ],
+      "relatedAnimals": [
+        "arapaima",
+        "red-bellied-piranha",
+        "koi-carp"
+      ],
+      "imageAlt": {
+        "en": "A large, blue-lit aquarium tank filled with fish",
+        "bn": "মাছে ভরা নীল আলোর বড় অ্যাকোয়ারিয়াম ট্যাংক"
+      }
+    },
+    {
+      "slug": "zoological-museum",
+      "name": {
+        "en": "Zoological Museum",
+        "bn": "প্রাণিবিজ্ঞান জাদুঘর"
+      },
+      "category": "experience",
+      "image": "museum",
+      "position": "50% 50%",
+      "order": 7,
+      "imageNote": "illustrative",
+      "blurb": {
+        "en": "Natural history displays that reward a slower, closer look.",
+        "bn": "ধীরে, কাছ থেকে দেখলে বেশি কিছু শেখানো প্রকৃতির ইতিহাসের সংগ্রহ।"
+      },
+      "intro": {
+        "en": "A separate-ticket museum for visitors who want to look beyond the living collection.",
+        "bn": "জীবন্ত সংগ্রহ ছাড়িয়ে আরও জানতে চাওয়া দর্শনার্থীদের জন্য আলাদা টিকিটের জাদুঘর।"
+      },
+      "description": [
+        {
+          "en": "The Zoological Museum adds an important dimension to a zoo visit: preserved specimens and displays that let you study anatomy, scale and diversity up close. It is especially useful for school groups and curious young naturalists.",
+          "bn": "প্রাণিবিজ্ঞান জাদুঘর চিড়িয়াখানা ভ্রমণে গুরুত্বপূর্ণ মাত্রা যোগ করে: সংরক্ষিত নমুনা ও প্রদর্শনী, যা শরীরের গঠন, আকার ও বৈচিত্র্য কাছ থেকে দেখতে দেয়। স্কুল দল ও কৌতূহলী তরুণ প্রকৃতিপ্রেমীদের জন্য বিশেষ উপযোগী।"
+        },
+        {
+          "en": "Museum entry is ticketed separately from the main zoo admission. Check the current price and opening arrangements at the gate or information desk before your visit.",
+          "bn": "জাদুঘরে প্রবেশের জন্য চিড়িয়াখানার মূল টিকিটের অতিরিক্ত টিকিট প্রয়োজন। ভ্রমণের আগে গেট বা তথ্যকেন্দ্রে বর্তমান মূল্য ও খোলার সময় জেনে নিন।"
+        }
+      ],
+      "highlights": [
+        {
+          "en": "Natural history exhibits",
+          "bn": "প্রকৃতির ইতিহাসের প্রদর্শনী"
+        },
+        {
+          "en": "Separate BDT 10 entry ticket",
+          "bn": "আলাদা ১০ টাকার প্রবেশ টিকিট"
+        },
+        {
+          "en": "Useful for school and study groups",
+          "bn": "স্কুল ও পড়াশোনার দলের জন্য উপযোগী"
+        }
+      ],
+      "relatedAnimals": [
+        "indian-python",
+        "mugger-crocodile",
+        "aldabra-giant-tortoise"
+      ],
+      "imageAlt": {
+        "en": "Natural history specimen displays inside a museum",
+        "bn": "জাদুঘরে সংরক্ষিত প্রাকৃতিক ইতিহাসের নমুনা"
+      }
+    },
+    {
+      "slug": "childrens-park",
+      "name": {
+        "en": "Children's Park",
+        "bn": "শিশুপার্ক"
+      },
+      "category": "family",
+      "image": "children-park",
+      "position": "50% 50%",
+      "order": 8,
+      "imageNote": "illustrative",
+      "blurb": {
+        "en": "A place to pause, play and let younger visitors burn off some energy.",
+        "bn": "বিশ্রাম, খেলা আর ছোটদের প্রাণশক্তি বের করার জায়গা।"
+      },
+      "intro": {
+        "en": "A family stop between the animals, the lakes and the long walk home.",
+        "bn": "প্রাণী, হ্রদ আর ফেরার দীর্ঘ পথের মাঝে পারিবারিক বিরতি।"
+      },
+      "description": [
+        {
+          "en": "The children’s park gives families a dedicated place to rest and play within the zoo grounds. It is designed for younger visitors, but the surrounding paths and shade make it a useful pause for everyone.",
+          "bn": "শিশুপার্ক পরিবারগুলোকে চিড়িয়াখানার ভেতরে বিশ্রাম ও খেলার আলাদা জায়গা দেয়। এটি ছোটদের জন্য তৈরি, তবে আশপাশের পথ ও ছায়া সবাইকের জন্য উপযোগী বিরতি।"
+        },
+        {
+          "en": "Children should always be supervised around play equipment and near the zoo’s water bodies. Combine the stop with a visit to the nearby lakes and birdlife for a slower family afternoon.",
+          "bn": "খেলার সরঞ্জাম ও চিড়িয়াখানার পানির কাছে শিশুদের সবসময় তত্ত্বাবধানে রাখুন। পাশের হ্রদ ও পাখি দেখার সঙ্গে এই বিরতি মিলিয়ে পরিবারের জন্য শান্ত বিকেল তৈরি করুন।"
+        }
+      ],
+      "highlights": [
+        {
+          "en": "Dedicated play area",
+          "bn": "আলাদা খেলার এলাকা"
+        },
+        {
+          "en": "Family-friendly resting point",
+          "bn": "পরিবারবান্ধব বিশ্রামস্থল"
+        },
+        {
+          "en": "Close to the lakes and main paths",
+          "bn": "হ্রদ ও প্রধান পথের কাছে"
+        }
+      ],
+      "relatedAnimals": [
+        "rhesus-macaque",
+        "indian-peafowl",
+        "koi-carp"
+      ],
+      "imageAlt": {
+        "en": "A shaded green play area for children",
+        "bn": "শিশুদের জন্য ছায়াযুক্ত সবুজ খেলার এলাকা"
+      }
+    }
+  ],
+  "animals": [
+    {
+      "slug": "royal-bengal-tiger",
+      "name": {
+        "en": "Royal Bengal Tiger",
+        "bn": "রয়েল বেঙ্গল টাইগার"
+      },
+      "scientific": "Panthera tigris tigris",
+      "category": "mammals",
+      "image": "tiger-portrait",
+      "imageAlt": {
+        "en": "Royal Bengal tiger resting at Bangladesh National Zoo",
+        "bn": "বাংলাদেশ জাতীয় চিড়িয়াখানায় বিশ্রামরত রয়েল বেঙ্গল টাইগার"
+      },
+      "intro": {
+        "en": "Bangladesh’s national animal and the enduring symbol of the Sundarbans.",
+        "bn": "বাংলাদেশের জাতীয় প্রাণী এবং সুন্দরবনের চিরন্তন প্রতীক।"
+      },
+      "description": {
+        "en": "The Royal Bengal tiger is a powerful, solitary hunter adapted to mangrove forests, grasslands and wetlands. Its unmistakable stripes help it disappear into tall reeds and dappled shade. In Bangladesh, the tiger is inseparable from the identity of the Sundarbans.",
+        "bn": "রয়েল বেঙ্গল টাইগার শক্তিশালী ও একাকী শিকারি, যা ম্যানগ্রোভ অরণ্য, তৃণভূমি ও জলাভূমির সঙ্গে খাপ খেয়ে বেঁচে থাকে। এর অনন্য ডোরাকাটা দাগ নলখাগড়া ও ছায়াঘেরা বনে মিশে যেতে সাহায্য করে। বাংলাদেশে বাঘ সুন্দরবনের পরিচয়ের অবিচ্ছেদ্য অংশ।"
+      },
+      "habitat": {
+        "en": "Mangroves, forests and grasslands of South Asia",
+        "bn": "দক্ষিণ এশিয়ার ম্যানগ্রোভ, অরণ্য ও তৃণভূমি"
+      },
+      "diet": {
+        "en": "Deer, wild boar and other mammals",
+        "bn": "হরিণ, বন্য শূকর ও অন্যান্য স্তন্যপায়ী"
+      },
+      "fact": {
+        "en": "Every tiger’s stripe pattern is unique — no two tigers look exactly alike.",
+        "bn": "প্রতিটি বাঘের ডোরাকাটা নকশা আলাদা — দুটি বাঘ হুবহু একরকম দেখায় না।"
+      },
+      "mapFocus": "tiger",
+      "featured": true
+    },
+    {
+      "slug": "asian-elephant",
+      "name": {
+        "en": "Asian Elephant",
+        "bn": "এশীয় হাতি"
+      },
+      "scientific": "Elephas maximus",
+      "category": "mammals",
+      "image": "elephant",
+      "imageAlt": {
+        "en": "Asian elephant standing in a green enclosure at Bangladesh National Zoo",
+        "bn": "বাংলাদেশ জাতীয় চিড়িয়াখানার সবুজ আবাসে দাঁড়িয়ে থাকা এশীয় হাতি"
+      },
+      "intro": {
+        "en": "A highly intelligent, social giant of South and Southeast Asian forests.",
+        "bn": "দক্ষিণ ও দক্ষিণ-পূর্ব এশিয়ার অরণ্যের বুদ্ধিমান ও সামাজিক এক বিশাল প্রাণী।"
+      },
+      "description": {
+        "en": "Asian elephants live in close-knit family groups led by experienced females. They use their trunks to explore, drink, greet one another and handle food. Their presence in a landscape shapes the forest itself, from seed dispersal to the trails they create.",
+        "bn": "এশীয় হাতি অভিজ্ঞ নারী হাতির নেতৃত্বে ঘনিষ্ঠ পারিবারিক দলে বাস করে। তারা শুঁড় দিয়ে চারপাশের পরিবেশ অনুসন্ধান করে, পানি পান করে, একে অন্যকে অভিবাদন জানায় ও খাবার পরিচালনা করে। তাদের উপস্থিতি বীজ ছড়ানো থেকে পথ তৈরি পর্যন্ত বনের চেহারাই বদলে দেয়।"
+      },
+      "habitat": {
+        "en": "Forests and grasslands of South and Southeast Asia",
+        "bn": "দক্ষিণ ও দক্ষিণ-পূর্ব এশিয়ার অরণ্য ও তৃণভূমি"
+      },
+      "diet": {
+        "en": "Grasses, bark, leaves and fruit",
+        "bn": "ঘাস, গাছের ছাল, পাতা ও ফল"
+      },
+      "fact": {
+        "en": "An elephant’s trunk is strong enough to lift a heavy log and delicate enough to pick up a small fruit.",
+        "bn": "হাতির শুঁড় ভারী গাছের গুঁড়ি তোলার মতো শক্তিশালী, আবার ছোট ফলের মতো সূক্ষ্মও।"
+      },
+      "mapFocus": "elephant",
+      "featured": true
+    }
+  ],
+  "animalCategories": [
+    {
+      "id": "all",
+      "label": {
+        "en": "All animals",
+        "bn": "সব প্রাণী"
+      }
+    },
+    {
+      "id": "mammals",
+      "label": {
+        "en": "Mammals",
+        "bn": "স্তন্যপায়ী"
+      }
+    },
+    {
+      "id": "birds",
+      "label": {
+        "en": "Birds",
+        "bn": "পাখি"
+      }
+    },
+    {
+      "id": "reptiles",
+      "label": {
+        "en": "Reptiles",
+        "bn": "সরীসৃপ"
+      }
+    },
+    {
+      "id": "fish",
+      "label": {
+        "en": "Fish",
+        "bn": "মাছ"
+      }
+    }
+  ],
+  "guidelines": [
+    {
+      "id": "feeding",
+      "icon": "ban",
+      "title": {
+        "en": "Do not feed the animals",
+        "bn": "প্রাণীদের খাবার দেবেন না"
+      },
+      "text": {
+        "en": "Human food can make animals seriously ill. Leave all feeding to the zoo team.",
+        "bn": "মানুষের খাবার প্রাণীদের গুরুতর অসুস্থ করে তুলতে পারে। খাওয়ানোর কাজ চিড়িয়াখানা দলের জন্য রাখুন।"
+      }
+    },
+    {
+      "id": "disturbing",
+      "icon": "volume",
+      "title": {
+        "en": "Do not disturb wildlife",
+        "bn": "বন্যপ্রাণীকে বিরক্ত করবেন না"
+      },
+      "text": {
+        "en": "Keep voices low, never tap on glass or enclosures, and give animals space to rest.",
+        "bn": "আওয়াজ কম রাখুন, কাচ বা খাঁচায় টোকা দেবেন না এবং প্রাণীদের বিশ্রামের সুযোগ দিন।"
+      }
+    },
+    {
+      "id": "waste",
+      "icon": "trash",
+      "title": {
+        "en": "Take waste with you",
+        "bn": "ময়লা সঙ্গে নিয়ে যান"
+      },
+      "text": {
+        "en": "Use the bins provided. Plastic can harm animals and contaminate the lakes.",
+        "bn": "প্রদত্ত ডাস্টবিন ব্যবহার করুন। প্লাস্টিক প্রাণীদের ক্ষতি করে এবং হ্রদের পানি দূষিত করে।"
+      }
+    },
+    {
+      "id": "children",
+      "icon": "users",
+      "title": {
+        "en": "Supervise children",
+        "bn": "শিশুদের তত্ত্বাবধানে রাখুন"
+      },
+      "text": {
+        "en": "Keep children close, especially near water, barriers and busy paths.",
+        "bn": "বিশেষ করে পানির কাছে, বেড়ার কাছে ও ভিড়ের পথে শিশুদের কাছে রাখুন।"
+      }
+    },
+    {
+      "id": "barriers",
+      "icon": "fence",
+      "title": {
+        "en": "Respect safety barriers",
+        "bn": "নিরাপত্তা বেড়া সম্মান করুন"
+      },
+      "text": {
+        "en": "Never cross barriers or enter restricted areas, even for a photograph.",
+        "bn": "ছবি তোলার জন্যও বেড়া পার হবেন না বা নিষিদ্ধ এলাকায় ঢুকবেন না।"
+      }
+    },
+    {
+      "id": "staff",
+      "icon": "shield",
+      "title": {
+        "en": "Follow staff instructions",
+        "bn": "কর্মীদের নির্দেশনা অনুসরণ করুন"
+      },
+      "text": {
+        "en": "Staff directions keep you, other visitors and the animals safe.",
+        "bn": "কর্মীদের নির্দেশনা আপনার, অন্য দর্শনার্থীদের ও প্রাণীদের নিরাপত্তার জন্য।"
+      }
+    }
+  ],
+  "tips": [
+    {
+      "id": "early",
+      "icon": "sun",
+      "title": {
+        "en": "Start early",
+        "bn": "সকালে শুরু করুন"
+      },
+      "text": {
+        "en": "Mornings are cooler, quieter and often the best time to see animals active.",
+        "bn": "সকালে আবহাওয়া ঠান্ডা, ভিড় কম এবং প্রাণীরা প্রায়ই বেশি সক্রিয় থাকে।"
+      }
+    },
+    {
+      "id": "water",
+      "icon": "droplet",
+      "title": {
+        "en": "Carry water & shade",
+        "bn": "পানি ও ছায়ার ব্যবস্থা নিন"
+      },
+      "text": {
+        "en": "Bring more water than you expect to need and plan a shaded break at midday.",
+        "bn": "প্রয়োজনের চেয়ে বেশি পানি নিন এবং দুপুরে ছায়ায় বিরতির পরিকল্পনা করুন।"
+      }
+    },
+    {
+      "id": "shoes",
+      "icon": "footsteps",
+      "title": {
+        "en": "Wear comfortable shoes",
+        "bn": "আরামদায়ক জুতা পরুন"
+      },
+      "text": {
+        "en": "The grounds are large and some paths are uneven. Sun protection helps too.",
+        "bn": "প্রাঙ্গণ বড় এবং কিছু পথ অসমতল। রোদ থেকে সুরক্ষাও কাজে দেবে।"
+      }
+    },
+    {
+      "id": "meeting",
+      "icon": "pin",
+      "title": {
+        "en": "Agree a meeting point",
+        "bn": "মিলিত হওয়ার স্থান ঠিক করুন"
+      },
+      "text": {
+        "en": "Keep children close near water and barriers, and agree where to meet if you separate.",
+        "bn": "পানি ও বেড়ার কাছে শিশুদের কাছে রাখুন এবং আলাদা হয়ে গেলে কোথায় মিলিত হবেন ঠিক করুন।"
+      }
+    }
+  ],
+  "travelModes": [
+    {
+      "id": "metro",
+      "icon": "train",
+      "titleKey": "visit.metro",
+      "textKey": "visit.metroText",
+      "noteKey": "visit.metroNote"
+    },
+    {
+      "id": "bus",
+      "icon": "bus",
+      "titleKey": "visit.bus",
+      "textKey": "visit.busText",
+      "noteKey": "visit.busNote"
+    },
+    {
+      "id": "car",
+      "icon": "car",
+      "titleKey": "visit.car",
+      "textKey": "visit.carText",
+      "noteKey": "visit.carNote"
+    }
+  ],
+  "conservation": {
+    "features": [
+      {
+        "id": "wildlife",
+        "number": "01",
+        "icon": "shield",
+        "title": {
+          "en": "Wildlife Conservation",
+          "bn": "বন্যপ্রাণী সংরক্ষণ"
+        },
+        "summary": {
+          "en": "Care, observation and awareness come together to protect the species in the zoo’s keeping.",
+          "bn": "যত্ন, পর্যবেক্ষণ ও সচেতনতা মিলে চিড়িয়াখানার প্রাণীদের সুরক্ষা নিশ্চিত করে।"
+        },
+        "body": {
+          "en": "The zoo’s conservation role begins with excellent daily animal care. Keepers, veterinarians and animal-husbandry teams monitor health, nutrition, enrichment and enclosure conditions. Public education is the second half of the work: helping every visitor understand why wild places and wild species matter.",
+          "bn": "চিড়িয়াখানার সংরক্ষণ ভূমিকা শুরু হয় প্রতিদিনের উত্তম প্রাণী পরিচর্যা দিয়ে। রক্ষী, পশুচিকিৎসক ও প্রাণীপালন দল স্বাস্থ্য, পুষ্টি, মানসিক সক্রিয়তা ও আবাসস্থলের অবস্থা পর্যবেক্ষণ করেন। দ্বিতীয় অংশটি জনশিক্ষা — প্রতিটি দর্শনার্থীকে বন্য স্থান ও বন্য প্রজাতির গুরুত্ব বোঝানো।"
+        },
+        "image": "tiger-sundarbans",
+        "imageAlt": {
+          "en": "Royal Bengal tiger walking through the Sundarbans mangroves",
+          "bn": "সুন্দরবনের ম্যানগ্রোভ অরণ্যে হাঁটছে রয়েল বেঙ্গল টাইগার"
+        }
+      },
+      {
+        "id": "education",
+        "number": "02",
+        "icon": "school",
+        "title": {
+          "en": "Educational School Visits",
+          "bn": "শিক্ষামূলক স্কুল ভ্রমণ"
+        },
+        "summary": {
+          "en": "Turn a day at the zoo into a memorable outdoor classroom for your students.",
+          "bn": "চিড়িয়াখানার একটি দিনকে শিক্ষার্থীদের জন্য স্মরণীয় বাইরের ক্লাসরুমে পরিণত করুন।"
+        },
+        "body": {
+          "en": "School groups can plan an educational visit around animal observation, habitats and conservation. Contact the zoo office in advance to discuss timing, group size and any guided support that may be available. Programme availability depends on the zoo’s daily operations and staff capacity.",
+          "bn": "স্কুল দলগুলো প্রাণী পর্যবেক্ষণ, আবাসস্থল ও সংরক্ষণকে কেন্দ্র করে শিক্ষামূলক ভ্রমণের পরিকল্পনা করতে পারে। সময়, দলগত আকার ও সম্ভাব্য গাইড সহায়তা নিয়ে আলোচনার জন্য আগে থেকে চিড়িয়াখানা অফিসে যোগাযোগ করুন। কর্মসূচির প্রাপ্যতা চিড়িয়াখানার দৈনন্দিন কার্যক্রম ও কর্মী সক্ষমতার ওপর নির্ভর করে।"
+        },
+        "image": "education",
+        "imageAlt": {
+          "en": "Children taking part in an outdoor nature education camp",
+          "bn": "বাইরের প্রকৃতি শিক্ষা শিবিরে অংশ নিচ্ছে শিশুরা"
+        }
+      },
+      {
+        "id": "internship",
+        "number": "03",
+        "icon": "microscope",
+        "title": {
+          "en": "Student internships",
+          "bn": "শিক্ষার্থী ইন্টার্নশিপ"
+        },
+        "summary": {
+          "en": "Enquire about placements in animal care, veterinary support and conservation education.",
+          "bn": "প্রাণী পরিচর্যা, পশুচিকিৎসা সহায়তা ও সংরক্ষণ শিক্ষায় প্রশিক্ষণের সুযোগ সম্পর্কে জিজ্ঞাসা করুন।"
+        },
+        "body": {
+          "en": "Students and researchers interested in animal husbandry, veterinary practice or conservation education can contact the zoo administration for current opportunities. Placement dates, eligibility and application requirements are set by the zoo and are not published permanently here.",
+          "bn": "প্রাণীপালন, পশুচিকিৎসা বা সংরক্ষণ শিক্ষায় আগ্রহী শিক্ষার্থী ও গবেষকরা বর্তমান সুযোগ সম্পর্কে চিড়িয়াখানা প্রশাসনের সঙ্গে যোগাযোগ করতে পারেন। প্রশিক্ষণের তারিখ, যোগ্যতা ও আবেদনের শর্ত চিড়িয়াখানা কর্তৃপক্ষ নির্ধারণ করে; সেগুলো এখানে স্থায়ীভাবে প্রকাশ করা হয় না।"
+        },
+        "image": "elephant-shelter",
+        "imageAlt": {
+          "en": "Asian elephant under a shelter at Bangladesh National Zoo",
+          "bn": "বাংলাদেশ জাতীয় চিড়িয়াখানায় আশ্রয়ের নিচে এশীয় হাতি"
+        }
+      }
+    ],
+    "pillars": [
+      {
+        "id": "welfare",
+        "title": {
+          "en": "Animal welfare first",
+          "bn": "প্রথমে প্রাণীর কল্যাণ"
+        },
+        "body": {
+          "en": "Good zoos are built on observation, nutrition, veterinary care and environments that let animals express natural behaviour.",
+          "bn": "ভালো চিড়িয়াখানার ভিত্তি হলো পর্যবেক্ষণ, পুষ্টি, পশুচিকিৎসা এবং প্রাণীর স্বাভাবিক আচরণ প্রকাশের উপযোগী পরিবেশ।"
+        }
+      },
+      {
+        "id": "native",
+        "title": {
+          "en": "Pride in native wildlife",
+          "bn": "দেশীয় বন্যপ্রাণীর প্রতি গর্ব"
+        },
+        "body": {
+          "en": "From the Royal Bengal tiger to the mugger crocodile, Bangladesh’s own species carry stories worth protecting.",
+          "bn": "রয়েল বেঙ্গল টাইগার থেকে মিঠাপানির কুমির — বাংলাদেশের নিজস্ব প্রজাতির গল্প সংরক্ষণের যোগ্য।"
+        }
+      },
+      {
+        "id": "future",
+        "title": {
+          "en": "Learning for the future",
+          "bn": "ভবিষ্যতের জন্য শিক্ষা"
+        },
+        "body": {
+          "en": "A child who understands a habitat is more likely to defend it. Every visit is a chance to spark that understanding.",
+          "bn": "যে শিশু একটি আবাসস্থল বুঝে, সে তা রক্ষা করার সম্ভাবনা বেশি রাখে। প্রতিটি ভ্রমণ সেই বোঝাপড়ার সুযোগ।"
+        }
+      }
+    ],
+    "schoolVisitSteps": [
+      {
+        "id": "plan",
+        "title": {
+          "en": "Plan ahead",
+          "bn": "আগে থেকেই পরিকল্পনা করুন"
+        },
+        "body": {
+          "en": "Contact the zoo office with your preferred date, group size and learning goals.",
+          "bn": "পছন্দের তারিখ, দলের আকার ও শেখার লক্ষ্য নিয়ে চিড়িয়াখানা অফিসে যোগাযোগ করুন।"
+        }
+      },
+      {
+        "id": "prepare",
+        "title": {
+          "en": "Prepare the class",
+          "bn": "শিক্ষার্থীদের প্রস্তুত করুন"
+        },
+        "body": {
+          "en": "Set expectations for respectful observation, quiet voices and staying with the group.",
+          "bn": "শ্রদ্ধাশীল পর্যবেক্ষণ, নিচু কণ্ঠস্বর ও দলের সঙ্গে থাকার বিষয়ে আগেই নির্দেশনা দিন।"
+        }
+      },
+      {
+        "id": "follow",
+        "title": {
+          "en": "Follow zoo rules",
+          "bn": "চিড়িয়াখানার নিয়ম মানুন"
+        },
+        "body": {
+          "en": "Do not feed animals, cross barriers or leave litter. Teachers remain responsible for supervision.",
+          "bn": "প্রাণীদের খাবার দেবেন না, বেষ্টনী পার হবেন না বা ময়লা ফেলবেন না। শিক্ষকদের তত্ত্বাবধানের দায়িত্ব থাকে।"
+        }
+      }
+    ],
+    "quote": {
+      "en": "A child who understands a habitat is far more likely to defend it.",
+      "bn": "যে শিশু একটি আবাসস্থল বোঝে, সে তা রক্ষা করার সম্ভাবনা অনেক বেশি রাখে।"
+    },
+    "quoteAttribution": {
+      "en": "The idea behind conservation education",
+      "bn": "সংরক্ষণ শিক্ষার মূল ভাবনা"
+    },
+    "images": {
+      "main": "education",
+      "inset": "tiger-sundarbans"
+    }
+  },
+  "news": [
+    {
+      "slug": "first-timer-route-through-the-zoo",
+      "isSample": true,
+      "featured": true,
+      "category": "guide",
+      "readTime": 5,
+      "image": "gate",
+      "imageAlt": {
+        "en": "The main entrance gate of Bangladesh National Zoo",
+        "bn": "বাংলাদেশ জাতীয় চিড়িয়াখানার প্রধান প্রবেশপথ"
+      },
+      "title": {
+        "en": "A first-timer’s route through the zoo",
+        "bn": "প্রথমবার চিড়িয়াখানায়: একটি সহজ রুট"
+      },
+      "excerpt": {
+        "en": "A calm, flexible way to see the big animals, the birds and the lakes without trying to do everything at once.",
+        "bn": "সব কিছু একসঙ্গে না দেখে বড় প্রাণী, পাখি ও হ্রদ—শান্ত ও নমনীয়ভাবে দেখার একটি পরামর্শ।"
+      },
+      "body": [
+        {
+          "en": "The first decision at the gate is not which animal to see, but how to pace the day. The grounds are large, the weather is often warm, and the most memorable moments tend to happen when you slow down rather than rush between enclosures.",
+          "bn": "ফটকে প্রথম সিদ্ধান্তটি কোন প্রাণী দেখবেন তা নয়, বরং দিনটির গতি কীভাবে রাখবেন। প্রাঙ্গণ বড়, আবহাওয়া প্রায়ই গরম, আর সবচেয়ে স্মরণীয় মুহূর্তগুলো আসে যখন খাঁচা থেকে খাঁচায় দৌড় না দিয়ে ধীর হন।"
+        },
+        {
+          "en": "A simple rhythm works well: start with the birds while the morning is still cool, move to the large mammals while they are active, take a shaded break around midday, and leave the lakes for the afternoon. The museum and aquarium make good hot-weather pauses, but remember that the museum needs its own ticket.",
+          "bn": "সহজ একটি ছন্দ ভালো কাজ করে: সকালের ঠান্ডায় পাখি দিয়ে শুরু করুন, সক্রিয় থাকার সময় বড় স্তন্যপায়ীদের দেখুন, দুপুরে ছায়ায় বিশ্রাম নিন এবং বিকেলের জন্য হ্রদ রাখুন। জাদুঘর ও অ্যাকোয়ারিয়াম গরমের সময় ভালো বিরতি, তবে মনে রাখবেন জাদুঘরের জন্য আলাদা টিকিট লাগে।"
+        },
+        {
+          "en": "Treat this as an editorial suggestion, not an official schedule. Crowds, weather and animal activity change from day to day. The best route is the one that leaves room to stop when something catches your eye.",
+          "bn": "এটি সম্পাদকীয় পরামর্শ, সরকারি সময়সূচি নয়। ভিড়, আবহাওয়া ও প্রাণীদের সক্রিয়তা প্রতিদিন বদলায়। সেরা রুট হলো সেইটি, যেখানে চোখে পড়া কিছু দেখতে থামার জায়গা থাকে।"
+        }
+      ]
+    },
+    {
+      "slug": "why-the-royal-bengal-tiger-still-matters",
+      "isSample": true,
+      "featured": false,
+      "category": "wildlife",
+      "readTime": 6,
+      "image": "tiger-sundarbans",
+      "imageAlt": {
+        "en": "A Royal Bengal tiger walking through mangrove forest in the Sundarbans",
+        "bn": "সুন্দরবনের ম্যানগ্রোভ অরণ্যে হাঁটছে রয়েল বেঙ্গল টাইগার"
+      },
+      "title": {
+        "en": "Why the Royal Bengal tiger still matters",
+        "bn": "রয়েল বেঙ্গল টাইগার কেন এখনো গুরুত্বপূর্ণ"
+      },
+      "excerpt": {
+        "en": "The national animal is more than a symbol. It is a measure of how well an entire mangrove landscape is doing.",
+        "bn": "জাতীয় প্রাণীটি কেবল প্রতীক নয়। এটি পুরো ম্যানগ্রোভ পরিবেশের অবস্থার একটি মাপকাঠি।"
+      },
+      "body": [
+        {
+          "en": "The Royal Bengal tiger sits at the top of the food chain in the Sundarbans. That position makes it a useful indicator: when tigers have space, prey and clean water, the wider ecosystem is usually holding together.",
+          "bn": "রয়েল বেঙ্গল টাইগার সুন্দরবনের খাদ্য শৃঙ্খলের শীর্ষে। এই অবস্থানই তাকে গুরুত্বপূর্ণ সূচক করে: বাঘ যখন জায়গা, খাদ্য ও পরিষ্কার পানি পায়, তখন সাধারণত পুরো বাস্তুতন্ত্রও টিকে থাকে।"
+        },
+        {
+          "en": "Tigers are powerful swimmers and solitary hunters, adapted to a world of tidal channels, mud and dense mangrove roots. Seeing one at the zoo is a chance to look closely at those adaptations — the broad paws, the low-slung walk, the stillness before movement.",
+          "bn": "বাঘ শক্তিশালী সাঁতারু ও একাকী শিকারি; জোয়ারের খাল, কাদা ও ঘন ম্যানগ্রোভ শিকড়ের জগতে তাদের অভিযোজন। চিড়িয়াখানায় একটি বাঘ দেখা মানে এই অভিযোজনগুলো কাছ থেকে দেখা—চওড়া থাবা, নিচু ভঙ্গিতে হাঁটা, নড়াচড়ার আগের নিঃশব্দতা।"
+        },
+        {
+          "en": "Conservation is not only about the animal in front of you. It is about the mangrove forests, rivers and communities that share its range. A zoo visit can be the beginning of that larger story, not the end of it.",
+          "bn": "সংরক্ষণ কেবল সামনের প্রাণীটির বিষয় নয়। এটি তার বিচরণক্ষেত্রের ম্যানগ্রোভ বন, নদী ও জনগোষ্ঠীর বিষয়। চিড়িয়াখানার ভ্রমণ সেই বড় গল্পের শুরু হতে পারে, শেষ নয়।"
+        }
+      ]
+    },
+    {
+      "slug": "planning-a-school-visit-that-teaches",
+      "isSample": true,
+      "featured": false,
+      "category": "education",
+      "readTime": 5,
+      "image": "education",
+      "imageAlt": {
+        "en": "Children taking part in an outdoor nature education activity",
+        "bn": "বাইরের প্রকৃতি শিক্ষা কার্যক্রমে অংশ নিচ্ছে শিশুরা"
+      },
+      "title": {
+        "en": "Planning a school visit that actually teaches",
+        "bn": "স্কুল ভ্রমণ যেভাবে সত্যিই শেখাবে"
+      },
+      "excerpt": {
+        "en": "A little preparation turns a walk between enclosures into a lesson children remember for years.",
+        "bn": "সামান্য প্রস্তুতি খাঁচার মাঝের হাঁটাকে বছরের পর বছর মনে রাখার পাঠে বদলে দেয়।"
+      },
+      "body": [
+        {
+          "en": "The difference between a school trip and a school lesson often comes down to preparation. Before arriving, ask children to choose one animal or habitat to observe closely. A single focused question — how does this animal move, feed or rest? — can organise the whole visit.",
+          "bn": "স্কুল ভ্রমণ আর পাঠের মধ্যে পার্থক্য প্রায়ই প্রস্তুতিতে। আসার আগে শিশুদের একটি প্রাণী বা আবাসস্থল বেছে নিতে বলুন, যা তারা কাছ থেকে পর্যবেক্ষণ করবে। একটি নির্দিষ্ট প্রশ্ন—এই প্রাণী কীভাবে চলে, খায় বা বিশ্রাম নেয়?—পুরো ভ্রমণকে গুছিয়ে দিতে পারে।"
+        },
+        {
+          "en": "Set clear expectations about quiet voices, staying with the group and never feeding the animals. Teachers remain responsible for supervision throughout the visit. If you want a guided or structured programme, contact the zoo office well in advance to ask what is currently possible.",
+          "bn": "নিচু কণ্ঠস্বর, দলের সঙ্গে থাকা এবং প্রাণীদের খাবার না দেওয়ার বিষয়ে স্পষ্ট নির্দেশনা দিন। পুরো ভ্রমণে শিক্ষকদের তত্ত্বাবধানের দায়িত্ব থাকে। গাইডসহ বা কাঠামোবদ্ধ কর্মসূচি চাইলে যথেষ্ট আগে চিড়িয়াখানা অফিসে যোগাযোগ করে বর্তমান সুযোগ জেনে নিন।"
+        },
+        {
+          "en": "Back in the classroom, the visit can continue through drawing, writing or a small research project. The aim is not to memorise a list of species, but to build a habit of looking carefully and asking better questions.",
+          "bn": "শ্রেণিকক্ষে ফিরে ভ্রমণ চলতে পারে আঁকা, লেখা বা ছোট গবেষণা প্রকল্পের মাধ্যমে। উদ্দেশ্য প্রজাতির তালিকা মুখস্থ করা নয়, বরং মনোযোগ দিয়ে দেখা ও আরও ভালো প্রশ্ন করার অভ্যাস গড়া।"
+        }
+      ]
+    },
+    {
+      "slug": "monsoon-at-the-zoo",
+      "isSample": true,
+      "featured": false,
+      "category": "seasons",
+      "readTime": 4,
+      "image": "lake",
+      "imageAlt": {
+        "en": "Greenery and water at Bangladesh National Zoo",
+        "bn": "বাংলাদেশ জাতীয় চিড়িয়াখানার সবুজ ও জলাশয়"
+      },
+      "title": {
+        "en": "Monsoon at the zoo: watching a landscape change",
+        "bn": "বর্ষায় চিড়িয়াখানা: বদলে যাওয়া এক পরিবেশ"
+      },
+      "excerpt": {
+        "en": "Rain changes the sound, colour and rhythm of the grounds — and the behaviour of the animals that live there.",
+        "bn": "বৃষ্টি প্রাঙ্গণের শব্দ, রং ও ছন্দ বদলে দেয়—আর সেখানে থাকা প্রাণীদের আচরণও।"
+      },
+      "body": [
+        {
+          "en": "Bangladesh’s seasons reshape the outdoors, and a zoo is no exception. During the monsoon, the greens deepen, the lakes fill, and the air carries the smell of wet earth. Birds often become more vocal; some animals choose shelter, while others seem to enjoy the cooler air.",
+          "bn": "বাংলাদেশের ঋতুগুলো বাইরের পরিবেশ বদলে দেয়, চিড়িয়াখানাও তার ব্যতিক্রম নয়। বর্ষায় সবুজ গাঢ় হয়, হ্রদ ভরে ওঠে এবং বাতাসে ভেজা মাটির গন্ধ থাকে। পাখির ডাক প্রায়ই বাড়ে; কিছু প্রাণী আশ্রয় বেছে নেয়, আবার কিছু ঠান্ডা বাতাস উপভোগ করে।"
+        },
+        {
+          "en": "Practical advice matters more in the rain: carry a light raincoat, wear shoes with grip, and expect some paths to be wet or uneven. Never take shelter inside a barrier or climb over a fence to escape the rain.",
+          "bn": "বৃষ্টিতে ব্যবহারিক পরামর্শ আরও গুরুত্বপূর্ণ: হালকা রেইনকোট নিন, গ্রিপযুক্ত জুতা পরুন এবং কিছু পথ ভেজা বা অসমতল হতে পারে—এটি মাথায় রাখুন। বৃষ্টি এড়াতে কখনো বেড়ার ভেতরে আশ্রয় নেবেন না বা বেড়া ডিঙাবেন না।"
+        },
+        {
+          "en": "The monsoon is also a reminder that weather can change opening arrangements. Check official guidance before a long journey, and be prepared to adjust your plan.",
+          "bn": "বর্ষা মনে করিয়ে দেয়, আবহাওয়া খোলার ব্যবস্থাও বদলাতে পারে। দীর্ঘ যাত্রার আগে সরকারি নির্দেশনা দেখে নিন এবং পরিকল্পনা বদলানোর জন্য প্রস্তুত থাকুন।"
+        }
+      ]
+    },
+    {
+      "slug": "photographing-wildlife-with-respect",
+      "isSample": true,
+      "featured": false,
+      "category": "photography",
+      "readTime": 4,
+      "image": "peacock",
+      "imageAlt": {
+        "en": "Indian peafowl at Bangladesh National Zoo",
+        "bn": "বাংলাদেশ জাতীয় চিড়িয়াখানায় ভারতীয় ময়ূর"
+      },
+      "title": {
+        "en": "How to photograph wildlife without disturbing it",
+        "bn": "বন্যপ্রাণীকে বিরক্ত না করে ছবি তোলার উপায়"
+      },
+      "excerpt": {
+        "en": "Patience, a quiet stance and a little restraint make better pictures — and a better day for the animals.",
+        "bn": "ধৈর্য, শান্ত ভঙ্গি ও একটু সংযম ভালো ছবি তোলে—আর প্রাণীদের জন্যও ভালো একটি দিন তৈরি করে।"
+      },
+      "body": [
+        {
+          "en": "The best wildlife photographs usually come from waiting, not chasing. Find a comfortable spot, keep your movements slow and let the animal behave naturally. A picture of an animal at rest, doing something ordinary, is often more revealing than a forced close-up.",
+          "bn": "সেরা বন্যপ্রাণীর ছবি সাধারণত তাড়া করে নয়, অপেক্ষা করে আসে। আরামদায়ক জায়গা খুঁজে নিন, ধীরে চলুন এবং প্রাণীকে স্বাভাবিক আচরণ করতে দিন। বিশ্রামরত প্রাণীর সাধারণ কোনো কাজের ছবি অনেক সময় জোর করে তোলা কাছের ছবির চেয়ে বেশি কিছু বলে।"
+        },
+        {
+          "en": "Avoid flash near animals, never tap on glass or fencing, and never cross a barrier for a better angle. If an animal moves away or shows stress, that is your signal to stop. Respect other visitors’ views as well — a clear sightline is shared.",
+          "bn": "প্রাণীদের কাছে ফ্ল্যাশ এড়িয়ে চলুন, কাচ বা বেড়ায় কখনো টোকা দেবেন না এবং ভালো অ্যাঙ্গেলের জন্য বেড়া পার হবেন না। প্রাণী সরে গেলে বা চাপের লক্ষণ দেখালে থেমে যান। অন্য দর্শনার্থীদের দেখার সুযোগও সম্মান করুন—পরিষ্কার দৃশ্যপট الجميعর জন্য।"
+        },
+        {
+          "en": "For commercial or professional photography, and for any drone use, seek permission from the zoo office in advance. The rules protect the animals first; good photographs follow from that respect.",
+          "bn": "বাণিজ্যিক বা পেশাদার ফটোগ্রাফি এবং ড্রোন ব্যবহারের জন্য আগে থেকে চিড়িয়াখানা অফিসের অনুমতি নিন। নিয়ম সবার আগে প্রাণীদের সুরক্ষা করে; সেই সম্মান থেকেই ভালো ছবি আসে।"
+        }
+      ]
+    },
+    {
+      "slug": "small-things-that-make-a-family-visit-easier",
+      "isSample": true,
+      "featured": false,
+      "category": "guide",
+      "readTime": 4,
+      "image": "children-park",
+      "imageAlt": {
+        "en": "A shaded children’s play area",
+        "bn": "ছায়াযুক্ত শিশুদের খেলার এলাকা"
+      },
+      "title": {
+        "en": "Six small things that make a family visit easier",
+        "bn": "পারিবারিক ভ্রমণ সহজ করার ছয়টি ছোট পরামর্শ"
+      },
+      "excerpt": {
+        "en": "Water, shade, snacks, a plan for tired legs — the unglamorous details that decide how the day feels.",
+        "bn": "পানি, ছায়া, নাস্তা, ক্লান্ত পায়ের জন্য পরিকল্পনা—দিনটি কেমন হবে তা ঠিক করে দেয় এই সাধারণ বিষয়গুলো।"
+      },
+      "body": [
+        {
+          "en": "Start early. The morning is cooler, the animals are often more active and the paths are quieter. Bring more water than you think you need, and plan a shaded break before anyone becomes tired or overheated.",
+          "bn": "সকালে শুরু করুন। সকালের আবহাওয়া ঠান্ডা, প্রাণীরা প্রায়ই বেশি সক্রিয় এবং পথ কম ভিড়ের হয়। যতটা প্রয়োজন মনে করছেন তার চেয়ে বেশি পানি নিন এবং কেউ ক্লান্ত বা অতিরিক্ত গরম হওয়ার আগেই ছায়ায় বিরতির পরিকল্পনা করুন।"
+        },
+        {
+          "en": "Choose two or three must-see animals rather than a long checklist. Let children set the pace sometimes, and use the children’s park or a lake-side bench as a proper pause rather than an afterthought. Comfortable shoes and sun protection make a bigger difference than any itinerary.",
+          "bn": "দীর্ঘ তালিকার বদলে দু-তিনটি অবশ্যই দেখার প্রাণী বেছে নিন। মাঝে মাঝে শিশুদের গতি নির্ধারণ করতে দিন এবং শিশুপার্ক বা হ্রদের পাশের বেঞ্চকে শেষের না ভেবে সত্যিকারের বিরতি হিসেবে ব্যবহার করুন। আরামদায়ক জুতা ও রোদ থেকে সুরক্ষা যেকোনো পরিকল্পনার চেয়ে বেশি কাজে দেয়।"
+        },
+        {
+          "en": "Keep children close near water and barriers, and agree on a meeting point in case anyone gets separated. If you need help, the information centre is the first place to ask. Small preparations leave more room for the good parts: curiosity, surprise and a slower look at the animals.",
+          "bn": "পানি ও বেড়ার কাছে শিশুদের কাছে রাখুন এবং কেউ আলাদা হয়ে গেলে মিলিত হওয়ার একটি জায়গা ঠিক করে নিন। সাহায্য প্রয়োজন হলে প্রথমে তথ্যকেন্দ্রে জিজ্ঞাসা করুন। ছোট প্রস্তুতি ভালো দিকগুলোর জন্য বেশি জায়গা রাখে: কৌতূহল, বিস্ময় এবং প্রাণীদের ধীরে দেখা।"
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "id": "hours",
+      "question": {
+        "en": "What are the zoo’s opening hours?",
+        "bn": "চিড়িয়াখানার খোলার সময় কী?"
+      },
+      "answer": {
+        "en": "The zoo opens at 9:00 am. From April to September it closes at 6:00 pm; from October to March it closes at 5:00 pm. The zoo is closed on Sundays. Public holidays and special days can affect the schedule, so check the zoo’s latest official guidance before travelling.",
+        "bn": "চিড়িয়াখানা সকাল ৯টায় খোলে। এপ্রিল থেকে সেপ্টেম্বর সন্ধ্যা ৬টা এবং অক্টোবর থেকে মার্চ বিকেল ৫টায় বন্ধ হয়। প্রতি রবিবার চিড়িয়াখানা বন্ধ থাকে। সরকারি ছুটি ও বিশেষ দিনে সময়সূচি বদলাতে পারে, তাই যাত্রার আগে চিড়িয়াখানার সর্বশেষ সরকারি নির্দেশনা দেখে নিন।"
+      }
+    },
+    {
+      "id": "tickets",
+      "question": {
+        "en": "How much are the tickets?",
+        "bn": "টিকিটের দাম কত?"
+      },
+      "answer": {
+        "en": "General admission is BDT 50. Students pay BDT 25 with a valid institutional ID, subject to official conditions. Children up to 2 years and visitors with disabilities enter free, subject to official policy. The Zoological Museum requires a separate BDT 10 ticket. Confirm current prices at the gate.",
+        "bn": "সাধারণ প্রবেশ ৫০ টাকা। বৈধ শিক্ষাপ্রতিষ্ঠানের পরিচয়পত্রসহ শিক্ষার্থীদের ২৫ টাকা, অফিসিয়াল শর্ত প্রযোজ্য। ২ বছর পর্যন্ত শিশু ও প্রতিবন্ধী দর্শনার্থীরা অফিসিয়াল নীতিমালা সাপেক্ষে বিনামূল্যে প্রবেশ করতে পারেন। প্রাণিবিজ্ঞান জাদুঘরের জন্য আলাদা ১০ টাকার টিকিট প্রয়োজন। ফটকে বর্তমান মূল্য নিশ্চিত করুন।"
+      }
+    }
+  ],
+  "imageCredits": {
+    "hero-tiger": {
+      "title": "Tiger in Bangladesh National Zoo.jpg",
+      "author": "Borhan",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Tiger_in_Bangladesh_National_Zoo.jpg"
+    },
+    "hero-tiger-alt": {
+      "title": "Tiger of Bangladesh national zoo.jpg",
+      "author": "Niriho khoka",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Tiger_of_Bangladesh_national_zoo.jpg"
+    },
+    "hero-tiger-portrait": {
+      "title": "Bengal tiger looking at the camera.jpg",
+      "author": "Joselodos",
+      "license": "CC0",
+      "source": "https://commons.wikimedia.org/wiki/File:Bengal_tiger_looking_at_the_camera.jpg"
+    },
+    "tiger-portrait": {
+      "title": "Panthera tigris tigris resting head on wall at Bangladesh National Zoo.jpg",
+      "author": "A S M Jobaer",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Panthera_tigris_tigris_resting_head_on_wall_at_Bangladesh_National_Zoo.jpg"
+    },
+    "tiger-sundarbans": {
+      "title": "Royal Bengal Tiger walking down Mangrove Island in Sundarbans 1.jpg",
+      "author": "Jayne Stockdale",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Royal_Bengal_Tiger_walking_down_Mangrove_Island_in_Sundarbans_1.jpg"
+    },
+    "elephant": {
+      "title": "Elephant in Bangladesh National Zoo.jpg",
+      "author": "Borhan",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Elephant_in_Bangladesh_National_Zoo.jpg"
+    },
+    "elephant-shelter": {
+      "title": "Elephas maximus under shelter at Bangladesh National Zoo 03.jpg",
+      "author": "A S M Jobaer",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Elephas_maximus_under_shelter_at_Bangladesh_National_Zoo_03.jpg"
+    },
+    "giraffe": {
+      "title": "Giraffa camelopardalis portrait at Bangladesh National Zoo 02.jpg",
+      "author": "A S M Jobaer",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Giraffa_camelopardalis_portrait_at_Bangladesh_National_Zoo_02.jpg"
+    },
+    "giraffe-wide": {
+      "title": "Giraffe of Bangladesh national zoo.jpg",
+      "author": "Niriho khoka",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Giraffe_of_Bangladesh_national_zoo.jpg"
+    },
+    "rhino": {
+      "title": "Rhinoceros (Ceratotherium simum) resting at Bangladesh National Zoo.jpg",
+      "author": "A S M Jobaer",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Rhinoceros_(Ceratotherium_simum)_resting_at_Bangladesh_National_Zoo.jpg"
+    },
+    "rhino-wide": {
+      "title": "Rhinoceros in Bangladesh National Zoo.jpg",
+      "author": "Borhan",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Rhinoceros_in_Bangladesh_National_Zoo.jpg"
+    },
+    "hippo": {
+      "title": "Hippopotamus amphibius at Bangladesh National Zoo 01.jpg",
+      "author": "A S M Jobaer",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Hippopotamus_amphibius_at_Bangladesh_National_Zoo_01.jpg"
+    },
+    "zebra": {
+      "title": "Zebras (Equus quagga) at Bangladesh National Zoo 01.jpg",
+      "author": "A S M Jobaer",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Zebras_(Equus_quagga)_at_Bangladesh_National_Zoo_01.jpg"
+    },
+    "chital": {
+      "title": "Chitra Deers at Bangladesh National Zoo (Axis axis),(2).jpg",
+      "author": "Syed Sajidul Islam",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Chitra_Deers_at_Bangladesh_National_Zoo_(Axis_axis),(2).jpg"
+    },
+    "sambar": {
+      "title": "Sambar deer, Bhutan 02.jpg",
+      "author": "Bernard Gagnon",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Sambar_deer,_Bhutan_02.jpg"
+    },
+    "baboon": {
+      "title": "060 Olive baboon walking at Queen Elizabeth National Park Photo by Giles Laurent.jpg",
+      "author": "Giles Laurent",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:060_Olive_baboon_walking_at_Queen_Elizabeth_National_Park_Photo_by_Giles_Laurent.jpg"
+    },
+    "rhesus": {
+      "title": "Rhesus macaque (Macaca mulatta mulatta), male, Gokarna.jpg",
+      "author": "Charles J. Sharp",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Rhesus_macaque_(Macaca_mulatta_mulatta),_male,_Gokarna.jpg"
+    },
+    "peacock": {
+      "title": "Peacock at Dhaka Zoo 2.jpg",
+      "author": "Masum-al-hasan",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Peacock_at_Dhaka_Zoo_2.jpg"
+    },
+    "ostrich": {
+      "title": "Ostrich at Bangladesh National Zoo 01.jpg",
+      "author": "Borhan",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Ostrich_at_Bangladesh_National_Zoo_01.jpg"
+    },
+    "emu": {
+      "title": "Emu 1 - Tidbinbilla.jpg",
+      "author": "JJ Harrison (https://www.jjharrison.com.au/)",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Emu_1_-_Tidbinbilla.jpg"
+    },
+    "pelican": {
+      "title": "Great white pelican (Pelecanus onocrotalus).jpg",
+      "author": "Charles J. Sharp",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Great_white_pelican_(Pelecanus_onocrotalus).jpg"
+    },
+    "flamingo": {
+      "title": "Flamenco común (Phoenicopterus roseus), Walvis Bay, Namibia, 2018-08-05, DD 30.jpg",
+      "author": "Diego Delso",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Flamenco_com%C3%BAn_(Phoenicopterus_roseus),_Walvis_Bay,_Namibia,_2018-08-05,_DD_30.jpg"
+    },
+    "stork": {
+      "title": "Black necked stork at Bangladesh National Zoo.jpg",
+      "author": "Borhan",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Black_necked_stork_at_Bangladesh_National_Zoo.jpg"
+    },
+    "mugger": {
+      "title": "Mugger crocodile in Bangladesh National Zoo.jpg",
+      "author": "Borhan",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Mugger_crocodile_in_Bangladesh_National_Zoo.jpg"
+    },
+    "python": {
+      "title": "Pitón de la India (Python molurus), Zoo de Ciudad Ho Chi Minh, Vietnam, 2013-08-14, DD 01.JPG",
+      "author": "Diego Delso",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Pit%C3%B3n_de_la_India_(Python_molurus),_Zoo_de_Ciudad_Ho_Chi_Minh,_Vietnam,_2013-08-14,_DD_01.JPG"
+    },
+    "tortoise": {
+      "title": "Aldabra giant tortoise (Aldabrachelys gigantea) in Curieuse Island - 02.jpg",
+      "author": "NorbertNagel",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Aldabra_giant_tortoise_(Aldabrachelys_gigantea)_in_Curieuse_Island_-_02.jpg"
+    },
+    "monitor": {
+      "title": "Asian water monitor in Chintamoni Kar Bird Sanctuary March 2024 by Tisha Mukherjee 01.jpg",
+      "author": "Tisha Mukherjee",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Asian_water_monitor_in_Chintamoni_Kar_Bird_Sanctuary_March_2024_by_Tisha_Mukherjee_01.jpg"
+    },
+    "arapaima": {
+      "title": "Arapaima gigas at Beijing aquarium.JPG",
+      "author": "Shizhao",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Arapaima_gigas_at_Beijing_aquarium.JPG"
+    },
+    "piranha": {
+      "title": "Pygocentrus nattereri - Karlsruhe Zoo 01.jpg",
+      "author": "H. Zell",
+      "license": "CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Pygocentrus_nattereri_-_Karlsruhe_Zoo_01.jpg"
+    },
+    "koi": {
+      "title": "Koi carp; March 2009.jpg",
+      "author": "Bernard Spragg. NZ",
+      "license": "CC0",
+      "source": "https://commons.wikimedia.org/wiki/File:Koi_carp;_March_2009.jpg"
+    },
+    "aquarium": {
+      "title": "Main fish tank at Enoshima Aquarium.jpg",
+      "author": "Syced",
+      "license": "CC0",
+      "source": "https://commons.wikimedia.org/wiki/File:Main_fish_tank_at_Enoshima_Aquarium.jpg"
+    },
+    "museum": {
+      "title": "Taxidermied Saltwater crocodile (Crocodylus porosus), Lee Kong Chian Natural History Museum (102451).jpg",
+      "author": "Moheen Reeyad",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Taxidermied_Saltwater_crocodile_(Crocodylus_porosus),_Lee_Kong_Chian_Natural_History_Museum_(102451).jpg"
+    },
+    "gate": {
+      "title": "Bangladesh national zoo gate.jpg",
+      "author": "Dolon Prova",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Bangladesh_national_zoo_gate.jpg"
+    },
+    "lake": {
+      "title": "Lake at Bangladesh National Zoo.jpg",
+      "author": "Borhan",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Lake_at_Bangladesh_National_Zoo.jpg"
+    },
+    "nature": {
+      "title": "Nature of Bangladesh National Zoo 01.jpg",
+      "author": "Borhan",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Nature_of_Bangladesh_National_Zoo_01.jpg"
+    },
+    "nature2": {
+      "title": "Nature of Bangladesh National Zoo 03.jpg",
+      "author": "Borhan",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Nature_of_Bangladesh_National_Zoo_03.jpg"
+    },
+    "sundarbans": {
+      "title": "Sundarban Mangrove forest 09.jpg",
+      "author": "Pinakpani",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Sundarban_Mangrove_forest_09.jpg"
+    },
+    "deer-herd": {
+      "title": "A herd of deer in sundarbans.jpg",
+      "author": "Abir0089",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:A_herd_of_deer_in_sundarbans.jpg"
+    },
+    "children-park": {
+      "title": "Nature of Bangladesh National Zoo 02.jpg",
+      "author": "Borhan",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Nature_of_Bangladesh_National_Zoo_02.jpg"
+    },
+    "education": {
+      "title": "Children at a World Wildlife Fund for Nature camp in Tuscany, Italy - 20060615.jpg",
+      "author": "alessandro pucci",
+      "license": "CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Children_at_a_World_Wildlife_Fund_for_Nature_camp_in_Tuscany,_Italy_-_20060615.jpg"
+    },
+    "map-reference": {
+      "title": "Interior map of Bangladesh National Zoo.jpg",
+      "author": "Borhan",
+      "license": "CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Interior_map_of_Bangladesh_National_Zoo.jpg"
+    }
+  },
+  "hours": {
+    "open": 9,
+    "close": 18,
+    "closedWeekday": 0,
+    "timeZone": "Asia/Dhaka",
+    "ticket": 50,
+    "museumTicket": 10,
+    "lastEntryMinutes": 30
+  },
+  "stats": [
+    {
+      "id": "acres",
+      "value": 186,
+      "suffix": "",
+      "labelKey": "stats.acres"
+    },
+    {
+      "id": "species",
+      "value": 137,
+      "suffix": "+",
+      "labelKey": "stats.species"
+    },
+    {
+      "id": "animals",
+      "value": 3000,
+      "suffix": "+",
+      "labelKey": "stats.animals"
+    },
+    {
+      "id": "established",
+      "value": 1974,
+      "suffix": "",
+      "labelKey": "stats.established"
+    }
+  ],
+  "translationKeys": {
+    "common": [
+      "skipToContent",
+      "menu",
+      "close",
+      "open",
+      "readMore",
+      "learnMore",
+      "viewAll",
+      "explore",
+      "back",
+      "home",
+      "planVisit",
+      "language",
+      "theme",
+      "light",
+      "dark",
+      "verified",
+      "approximate",
+      "sample",
+      "illustrative",
+      "editorialSample",
+      "loading",
+      "noResults",
+      "from",
+      "to",
+      "perPerson",
+      "free",
+      "ticket",
+      "credits",
+      "officialSite",
+      "openInNewTab",
+      "minutes",
+      "timezone",
+      "direction",
+      "reset",
+      "all",
+      "yes",
+      "no",
+      "closeMenu",
+      "openMenu",
+      "toggleTheme",
+      "switchToEnglish",
+      "switchToBangla",
+      "skipToFooter",
+      "top",
+      "clearSearch",
+      "closeDialog",
+      "loadingMap",
+      "opensNewTab"
+    ],
+    "nav": [
+      "home",
+      "visit",
+      "animals",
+      "map",
+      "conservation",
+      "news",
+      "contact",
+      "ariaLabel",
+      "mobileLabel"
+    ],
+    "hero": [
+      "eyebrow",
+      "titleA",
+      "titleB",
+      "subtitle",
+      "primary",
+      "secondary",
+      "statusLabel",
+      "scroll",
+      "caption",
+      "imageNote",
+      "hoursCta",
+      "location",
+      "established",
+      "acres"
+    ],
+    "today": [
+      "label",
+      "title",
+      "openNow",
+      "closedNow",
+      "closingSoon",
+      "closedToday",
+      "opensAt",
+      "closesAt",
+      "todayHours",
+      "lastEntry",
+      "nextOpening",
+      "seasonAprSep",
+      "seasonOctMar",
+      "summerHours",
+      "winterHours",
+      "sundayClosed",
+      "holidayNote",
+      "localTime",
+      "autoNote",
+      "liveLabel",
+      "planCta",
+      "directionsCta",
+      "closedNote",
+      "hoursRange",
+      "childFree",
+      "closedSunday",
+      "todayIs",
+      "nextOpenDay",
+      "at",
+      "openNote",
+      "closedSundayDetail",
+      "closedAfterDetail",
+      "closedBeforeDetail",
+      "closesDetail",
+      "closingSoonDetail",
+      "openProgressLabel"
+    ],
+    "stats": [
+      "label",
+      "titleA",
+      "titleB",
+      "intro",
+      "acres",
+      "species",
+      "animals",
+      "established",
+      "footnote",
+      "cta",
+      "imageCaption",
+      "imageLabel",
+      "since",
+      "local",
+      "note"
+    ],
+    "attractions": [
+      "label",
+      "titleA",
+      "titleB",
+      "intro",
+      "viewAll",
+      "explore",
+      "highlights",
+      "related",
+      "illustrative",
+      "onMap",
+      "overview",
+      "story",
+      "backTo",
+      "notFound",
+      "notFoundText",
+      "cardNote",
+      "moreAnimals",
+      "wildlife",
+      "experience",
+      "family",
+      "title",
+      "introLong",
+      "photoNote",
+      "ctaTitle",
+      "ctaText"
+    ],
+    "animals": [
+      "label",
+      "titleA",
+      "titleB",
+      "intro",
+      "search",
+      "searchLabel",
+      "filter",
+      "filterLabel",
+      "featured",
+      "viewAll",
+      "noResults",
+      "reset",
+      "count",
+      "fact",
+      "scientific",
+      "habitat",
+      "diet",
+      "category",
+      "mapHint",
+      "back",
+      "representative",
+      "collectionNote",
+      "notFound",
+      "notFoundText",
+      "allAnimals",
+      "categories",
+      "detailIntro",
+      "detailStory",
+      "profile",
+      "representativeImage",
+      "browseBy",
+      "resultsLabel",
+      "scientificShort",
+      "mapLink",
+      "exploreMore",
+      "photoNote",
+      "showing",
+      "of",
+      "openProfile"
+    ],
+    "visit": [
+      "label",
+      "titleA",
+      "titleB",
+      "intro",
+      "heroCta",
+      "quickFacts",
+      "hoursTitle",
+      "hoursIntro",
+      "seasonSummer",
+      "seasonWinter",
+      "seasonSummerRange",
+      "seasonWinterRange",
+      "summerHours",
+      "winterHours",
+      "sunday",
+      "sundayNote",
+      "lastEntry",
+      "holidayNote",
+      "ticketsTitle",
+      "ticketsIntro",
+      "gateOnly",
+      "general",
+      "student",
+      "child",
+      "disability",
+      "museum",
+      "studentNote",
+      "childNote",
+      "disabilityNote",
+      "museumNote",
+      "generalNote",
+      "ticketFootnote",
+      "facilitiesTitle",
+      "facilitiesIntro",
+      "guidelinesTitle",
+      "guidelinesIntro",
+      "directionsTitle",
+      "directionsIntro",
+      "metro",
+      "metroText",
+      "bus",
+      "busText",
+      "car",
+      "carText",
+      "getDirections",
+      "mapCta",
+      "accessibilityTitle",
+      "accessibilityText",
+      "groupTitle",
+      "groupText",
+      "groupCta",
+      "planTitle",
+      "planIntro",
+      "planStep1Time",
+      "planStep1Title",
+      "planStep1Text",
+      "planStep2Time",
+      "planStep2Title",
+      "planStep2Text",
+      "planStep3Time",
+      "planStep3Title",
+      "planStep3Text",
+      "planStep4Time",
+      "planStep4Title",
+      "planStep4Text",
+      "contactCta",
+      "contactText",
+      "verifiedNote",
+      "assistantNote",
+      "tipsTitle",
+      "tipsIntro",
+      "metroNote",
+      "busNote",
+      "carNote",
+      "ticketLabel",
+      "ageNote",
+      "museumNoteShort",
+      "hoursNote",
+      "rulesNote",
+      "planCta"
+    ],
+    "map": [
+      "label",
+      "titleA",
+      "titleB",
+      "intro",
+      "disclaimer",
+      "filter",
+      "filterLabel",
+      "listTitle",
+      "listIntro",
+      "verified",
+      "approximate",
+      "verifiedLegend",
+      "approximateLegend",
+      "focus",
+      "selected",
+      "reset",
+      "mapLoading",
+      "noJs",
+      "boundary",
+      "coordinates",
+      "directions",
+      "category",
+      "allShown",
+      "filtered",
+      "mapNote",
+      "accessibilityList",
+      "openLocation",
+      "onMap",
+      "details",
+      "parkEntrance",
+      "zooArea"
+    ],
+    "conservation": [
+      "label",
+      "titleA",
+      "titleB",
+      "intro",
+      "featuresTitle",
+      "featuresIntro",
+      "pillarsTitle",
+      "pillarsIntro",
+      "schoolTitle",
+      "schoolIntro",
+      "schoolCta",
+      "officialCta",
+      "photoNote",
+      "detailCta",
+      "quote",
+      "quoteAttribution",
+      "internalNote",
+      "backHome",
+      "visitCta"
+    ],
+    "news": [
+      "label",
+      "titleA",
+      "titleB",
+      "intro",
+      "sampleNotice",
+      "sampleBadge",
+      "officialNotice",
+      "noNotices",
+      "allCategories",
+      "read",
+      "readTime",
+      "relatedTitle",
+      "back",
+      "notFound",
+      "notFoundText",
+      "featured",
+      "evergreen",
+      "categories",
+      "categoryFilter",
+      "sampleLabel",
+      "editorialLabel",
+      "articleNote",
+      "byline",
+      "moreStories",
+      "contactCta"
+    ],
+    "faq": [
+      "label",
+      "titleA",
+      "titleB",
+      "intro",
+      "still",
+      "stillText",
+      "contactCta",
+      "officialCta",
+      "moreQuestions"
+    ],
+    "contact": [
+      "label",
+      "titleA",
+      "titleB",
+      "intro",
+      "addressTitle",
+      "addressNote",
+      "hoursTitle",
+      "hoursNote",
+      "phoneTitle",
+      "emailTitle",
+      "verificationPending",
+      "verificationNote",
+      "officialTitle",
+      "officialText",
+      "websiteCta",
+      "directionsTitle",
+      "directionsText",
+      "getDirections",
+      "mapTitle",
+      "mapText",
+      "mapCta",
+      "emergencyTitle",
+      "transportTitle",
+      "transportText",
+      "transportCta",
+      "pressTitle",
+      "pressText",
+      "pressCta",
+      "noFormNote",
+      "visitCta",
+      "addressLabel",
+      "phonePlaceholder",
+      "emailPlaceholder",
+      "mapNote",
+      "mapIframeTitle",
+      "socialTitle",
+      "socialNote",
+      "directionsLabel",
+      "mapCoords"
+    ],
+    "footer": [
+      "tagline",
+      "exploreTitle",
+      "visitTitle",
+      "aboutTitle",
+      "hoursTitle",
+      "addressTitle",
+      "tickets",
+      "plan",
+      "map",
+      "animals",
+      "conservation",
+      "news",
+      "contact",
+      "credits",
+      "faq",
+      "official",
+      "government",
+      "copyright",
+      "disclaimer",
+      "photographyNote",
+      "backToTop",
+      "sampleNote",
+      "siteMap",
+      "visitInfo",
+      "about",
+      "hoursLine",
+      "verifiedNote",
+      "ministryCredit",
+      "socialTitle",
+      "socialNote",
+      "concept",
+      "photoCredits",
+      "accessibilityNote"
+    ],
+    "detail": [
+      "overview",
+      "highlights",
+      "habitat",
+      "diet",
+      "fact",
+      "related",
+      "mapLocation",
+      "viewOnMap",
+      "backAnimals",
+      "backAttractions",
+      "representative",
+      "scientific",
+      "category",
+      "imageCredit",
+      "notFoundTitle",
+      "notFoundText",
+      "notFoundAction",
+      "profile",
+      "atTheZoo",
+      "aboutHeading",
+      "watchFor"
+    ],
+    "credits": [
+      "label",
+      "title",
+      "intro",
+      "photographyTitle",
+      "photographyText",
+      "author",
+      "license",
+      "source",
+      "viewSource",
+      "subject",
+      "total",
+      "licenseNote",
+      "fontsTitle",
+      "fontsText",
+      "mapTitle",
+      "mapText",
+      "iconsTitle",
+      "iconsText",
+      "codeTitle",
+      "codeText",
+      "contentTitle",
+      "contentText",
+      "officialNote",
+      "backHome",
+      "sampleContentTitle",
+      "sampleContentText",
+      "licenseLabels",
+      "replaceNote"
+    ],
+    "notFound": [
+      "code",
+      "titleA",
+      "titleB",
+      "text",
+      "home",
+      "visit",
+      "animals",
+      "map",
+      "title"
+    ],
+    "seo": [
+      "siteName",
+      "homeTitle",
+      "homeDescription",
+      "visitTitle",
+      "visitDescription",
+      "animalsTitle",
+      "animalsDescription",
+      "mapTitle",
+      "mapDescription",
+      "conservationTitle",
+      "conservationDescription",
+      "newsTitle",
+      "newsDescription",
+      "contactTitle",
+      "contactDescription",
+      "creditsTitle",
+      "creditsDescription",
+      "detailSuffix"
+    ],
+    "site": [
+      "name",
+      "location",
+      "homeLabel",
+      "tagline",
+      "emergencyNote"
+    ],
+    "social": [
+      "facebook",
+      "instagram",
+      "youtube"
+    ],
+    "dialog": [
+      "close",
+      "photoCredit",
+      "readOriginal"
+    ],
+    "meta": [
+      "title",
+      "description"
+    ]
+  }
+}

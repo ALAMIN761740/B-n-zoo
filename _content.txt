@@ -1,0 +1,104 @@
+﻿{
+  "features": [
+    {
+      "id": "wildlife",
+      "title": "Wildlife Conservation",
+      "summary": "Care, observation and awareness come together to protect the species in the zooÔÇÖs keeping.",
+      "body": "The zooÔÇÖs conservation role begins with excellent daily animal care. Keepers, veterinarians and animal-husbandry teams monitor health, nutrition, enrichment and enclosure conditions. Public education is the second half of the work: helping every visitor understand why wild places and wild species matter."
+    },
+    {
+      "id": "education",
+      "title": "Educational School Visits",
+      "summary": "Turn a day at the zoo into a memorable outdoor classroom for your students.",
+      "body": "School groups can plan an educational visit around animal observation, habitats and conservation. Contact the zoo office in advance to discuss timing, group size and any guided support that may be available. Programme availability depends on the zooÔÇÖs daily operations and staff capacity."
+    },
+    {
+      "id": "internship",
+      "title": "Student internships",
+      "summary": "Enquire about placements in animal care, veterinary support and conservation education.",
+      "body": "Students and researchers interested in animal husbandry, veterinary practice or conservation education can contact the zoo administration for current opportunities. Placement dates, eligibility and application requirements are set by the zoo and are not published permanently here."
+    }
+  ],
+  "pillars": [
+    {
+      "title": "Animal welfare first",
+      "body": "Good zoos are built on observation, nutrition, veterinary care and environments that let animals express natural behaviour."
+    },
+    {
+      "title": "Pride in native wildlife",
+      "body": "From the Royal Bengal tiger to the mugger crocodile, BangladeshÔÇÖs own species carry stories worth protecting."
+    },
+    {
+      "title": "Learning for the future",
+      "body": "A child who understands a habitat is more likely to defend it. Every visit is a chance to spark that understanding."
+    }
+  ],
+  "steps": [
+    {
+      "title": "Plan ahead",
+      "body": "Contact the zoo office with your preferred date, group size and learning goals."
+    },
+    {
+      "title": "Prepare the class",
+      "body": "Set expectations for respectful observation, quiet voices and staying with the group."
+    },
+    {
+      "title": "Follow zoo rules",
+      "body": "Do not feed animals, cross barriers or leave litter. Teachers remain responsible for supervision."
+    }
+  ],
+  "tips": [
+    {
+      "icon": "sun",
+      "title": "Start early",
+      "text": "Mornings are cooler, quieter and often the best time to see animals active."
+    },
+    {
+      "icon": "droplet",
+      "title": "Carry water & shade",
+      "text": "Bring more water than you expect to need and plan a shaded break at midday."
+    },
+    {
+      "icon": "footsteps",
+      "title": "Wear comfortable shoes",
+      "text": "The grounds are large and some paths are uneven. Sun protection helps too."
+    },
+    {
+      "icon": "pin",
+      "title": "Agree a meeting point",
+      "text": "Keep children close near water and barriers, and agree where to meet if you separate."
+    }
+  ],
+  "guidelines": [
+    {
+      "icon": "ban",
+      "title": "Do not feed the animals",
+      "text": "Human food can make animals seriously ill. Leave all feeding to the zoo team."
+    },
+    {
+      "icon": "volume",
+      "title": "Do not disturb wildlife",
+      "text": "Keep voices low, never tap on glass or enclosures, and give animals space to rest."
+    },
+    {
+      "icon": "trash",
+      "title": "Take waste with you",
+      "text": "Use the bins provided. Plastic can harm animals and contaminate the lakes."
+    },
+    {
+      "icon": "users",
+      "title": "Supervise children",
+      "text": "Keep children close, especially near water, barriers and busy paths."
+    },
+    {
+      "icon": "fence",
+      "title": "Respect safety barriers",
+      "text": "Never cross barriers or enter restricted areas, even for a photograph."
+    },
+    {
+      "icon": "shield",
+      "title": "Follow staff instructions",
+      "text": "Staff directions keep you, other visitors and the animals safe."
+    }
+  ]
+}

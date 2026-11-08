@@ -1,0 +1,68 @@
+﻿[
+ {
+  "slug": "royal-bengal-tiger",
+  "image": "tiger-portrait",
+  "category": "mammals",
+  "mapFocus": "tiger"
+ },
+ {
+  "slug": "asian-elephant",
+  "image": "elephant",
+  "category": "mammals",
+  "mapFocus": "elephant"
+ },
+ {
+  "slug": "giraffe",
+  "image": "giraffe",
+  "category": "mammals",
+  "mapFocus": "giraffe"
+ },
+ {
+  "slug": "white-rhinoceros",
+  "image": "rhino",
+  "category": "mammals",
+  "mapFocus": "rhino"
+ }
+]
+[
+ {
+  "slug": "royal-bengal-tiger",
+  "image": "tiger-portrait",
+  "category": "wildlife"
+ },
+ {
+  "slug": "rhinoceros",
+  "image": "rhino-wide",
+  "category": "wildlife"
+ },
+ {
+  "slug": "giraffe",
+  "image": "giraffe-wide",
+  "category": "wildlife"
+ },
+ {
+  "slug": "asian-elephant",
+  "image": "elephant-shelter",
+  "category": "wildlife"
+ },
+ {
+  "slug": "aviary-and-birds",
+  "image": "peacock",
+  "category": "experience"
+ },
+ {
+  "slug": "aquarium",
+  "image": "aquarium",
+  "category": "experience"
+ },
+ {
+  "slug": "zoological-museum",
+  "image": "museum",
+  "category": "experience"
+ },
+ {
+  "slug": "childrens-park",
+  "image": "children-park",
+  "category": "family"
+ }
+]
